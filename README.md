@@ -1,1 +1,1 @@
-Develope on Java 1.8
+Developed on Java 1.8
