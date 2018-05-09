@@ -1,1 +1,1 @@
-Require Java 1.8
+Develope on Java 1.8
